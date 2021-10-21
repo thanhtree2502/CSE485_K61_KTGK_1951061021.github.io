@@ -57,7 +57,7 @@
                         <tr>
                             <th scope="col">STT</th>
                             <th scope="col">Họ và Tên</th>
-                            <th scope="col">Giới tính</th>
+                            <th scope="col">Giới Tính</th>
                             <th scope="col">Tuổi</th>
                             <th scope="col">Nhóm máu</th>
                             <th scope="col">Ngày đăng ký hiến máu</th>
